@@ -1,2 +1,3 @@
-# WIP
-Web Crawler
+# Web Crawler
+
+Crawls the web
